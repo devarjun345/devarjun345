@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**devarjun345/devarjun345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3><code>$ cat contributions.log</code></h3>
 
-Here are some ideas to get you started:
+<img src="./graph.svg" width="820" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br><br>
+
+<h3><code>$ whoami --verbose</code></h3>
+
+<table>
+  <tr>
+    <td valign="top"><img src="./portrait.svg" width="360" /></td>
+    <td valign="top"><img src="./sysinfo.svg" width="460" /></td>
+  </tr>
+</table>
+
+</div>
